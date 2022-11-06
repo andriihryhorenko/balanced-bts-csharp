@@ -1,0 +1,15 @@
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\bin\Debug\net6.0\balanced-bts.exe
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\bin\Debug\net6.0\balanced-bts.deps.json
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\bin\Debug\net6.0\balanced-bts.runtimeconfig.json
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\bin\Debug\net6.0\balanced-bts.dll
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\bin\Debug\net6.0\balanced-bts.pdb
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\obj\Debug\net6.0\balanced-bts.csproj.AssemblyReference.cache
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\obj\Debug\net6.0\balanced-bts.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\obj\Debug\net6.0\balanced-bts.AssemblyInfoInputs.cache
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\obj\Debug\net6.0\balanced-bts.AssemblyInfo.cs
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\obj\Debug\net6.0\balanced-bts.csproj.CoreCompileInputs.cache
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\obj\Debug\net6.0\balanced-bts.dll
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\obj\Debug\net6.0\refint\balanced-bts.dll
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\obj\Debug\net6.0\balanced-bts.pdb
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\obj\Debug\net6.0\balanced-bts.genruntimeconfig.cache
+D:\GITHub\balanced-bts-csharp\balanced-bts\balanced-bts\obj\Debug\net6.0\ref\balanced-bts.dll
