@@ -10,6 +10,7 @@ And printing times of executing of each sorting:
 
 ![image](https://user-images.githubusercontent.com/112312750/200671323-f61fe5b3-4050-4c0f-9332-d64e3c71e1be.png)
 
+L: number of a dataset
 
 ## How to run
 
